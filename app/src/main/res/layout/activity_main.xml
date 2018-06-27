@@ -15,6 +15,7 @@
             android:id="@+id/textView"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
+            android:height="100dp"
             android:layout_weight="1"
             android:text="TextView"
             android:background="#FEAD"
@@ -25,6 +26,7 @@
             android:id="@+id/button_1"
             android:layout_width="wrap_content"
             android:text="Open"
+            android:layout_gravity="center_vertical"
             android:layout_height="wrap_content"
             tools:layout_editor_absoluteX="0dp"
             tools:layout_editor_absoluteY="25dp" />
@@ -40,16 +42,16 @@
             android:id="@+id/recvText"
             android:layout_width="0dp"
             android:layout_weight="1"
+            android:background="#EF0E"
             android:text="test recv test"
-            android:backgroundTint=""
-            android:layout_marginTop="50dp"
+            android:height="100dp"
             android:layout_height="wrap_content" />
 
         <Button
             android:id="@+id/button_3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="50dp"
+            android:layout_gravity="center_vertical"
             android:text="@string/recv"
             tools:layout_editor_absoluteX="86dp"
             tools:layout_editor_absoluteY="340dp" />
@@ -64,13 +66,14 @@
             android:id="@+id/sendText"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
+            android:background="#00FEF0"
+            android:height="100dp"
             android:layout_weight="1" />
         <Button
             android:id="@+id/button_2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Send"
-            tools:layout_editor_absoluteX="73dp"
-            tools:layout_editor_absoluteY="304dp" />
+            android:layout_gravity="center_vertical"
+            android:text="Send" />
     </LinearLayout>
 </LinearLayout>
