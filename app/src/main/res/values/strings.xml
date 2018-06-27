@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">serial_test</string>
+    <string name="recv">Recv</string>
+</resources>
