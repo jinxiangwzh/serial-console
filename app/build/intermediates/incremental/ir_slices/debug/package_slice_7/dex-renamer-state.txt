@@ -1,0 +1,4 @@
+#Wed Jun 27 13:53:04 CST 2018
+base.0=D\:\\android_execise\\serial_test\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\59
+path.0=classes.dex
+renamed.0=classes.dex

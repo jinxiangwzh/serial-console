@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Wed Jun 27 13:53:06 CST 2018
+7.path=classes.dex
+2.base=D\:\\android_execise\\serial_test\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+5.set=NATIVE_RESOURCE
+0.path=lib/x86/libnative-lib.so
+2.baseType=DIRECTORY
+3.base=D\:\\android_execise\\serial_test\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\64
+7.baseType=DIRECTORY
+2.set=NATIVE_RESOURCE
+1.path=lib/arm64-v8a/libnative-lib.so
+4.base=D\:\\android_execise\\serial_test\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\65
+7.set=DEX
+count=8
+5.baseType=DIRECTORY
+2.path=lib/x86_64/libnative-lib.so
+5.base=D\:\\android_execise\\serial_test\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+4.set=DEX
+3.path=classes.dex
+6.base=D\:\\android_execise\\serial_test\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\63
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=classes.dex
+7.base=D\:\\android_execise\\serial_test\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\66
+6.set=DEX
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=lib/armeabi-v7a/libnative-lib.so
+0.base=D\:\\android_execise\\serial_test\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+0.baseType=DIRECTORY
+3.set=DEX
+6.path=classes.dex
+1.base=D\:\\android_execise\\serial_test\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE
